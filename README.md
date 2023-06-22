@@ -14,11 +14,23 @@ Website KimCheers! merupakan sebuah website belajar korea secara onine.  KimChee
 # REQUIREMENT DASAR
 1) Desain Rapi
    
+   
 2) Website Responsive
+   ### ![image](https://github.com/tsaniaqurrota/UASPPW1_22-505618-SV-21839_KimCheers/assets/133009115/ed87e6c1-3aa8-4557-9531-66cad0219645)
+
+### ![image](https://github.com/tsaniaqurrota/UASPPW1_22-505618-SV-21839_KimCheers/assets/133009115/2192ec47-30d0-417b-8afa-ba80602f8a68)
+
+### ![image](https://github.com/tsaniaqurrota/UASPPW1_22-505618-SV-21839_KimCheers/assets/133009115/a00fc211-b92f-4e9a-a8f8-c20eea04df58)
+
+4) Direct Feedback
+
+
+Pada "Article" saat user memasukkan email kemudian klik "Subscribe" maka akan mendapatkan pesan alert seperti ini
+### ![image](https://github.com/tsaniaqurrota/UASPPW1_22-505618-SV-21839_KimCheers/assets/133009115/5a5658af-c5bd-48da-8ab7-93ea251ebd1d)
+
+
    
-3) Direct Feedback
-   
-4) Dinamis Content
+6) Dinamis Content
    
 -Memasukkan data user yang telah "Sign Up"
   Saat user ingin membuka "My Learning Center" secara otomatis user akan diarahkan ke halaman login. User baru akan mengisikan data yag diminta lalu saat menekan "Sign Up" secara otomatis data masuk pada tabel     "users" dalam database. Jika sudah melalukan registrasi sebelumnya, user dapat langsung login tanpa sign up lagi. Pada bagian login, jika semua data yang dimasukkan sesuai, maka akan langsung masuk pada "My Learning Center".
